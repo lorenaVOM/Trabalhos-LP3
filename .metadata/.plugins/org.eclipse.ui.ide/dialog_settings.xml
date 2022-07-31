@@ -6,8 +6,11 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Backup\loryl_000\Documents\Faculdade\Faculdade\3° Período\LP3\ExercíciosLP3"/>
 			<item value="D:\Backup\loryl_000\Documents\Faculdade\Faculdade\3° Período\LP3\Exercícios\Primeiro Trabalho"/>
 			<item value="D:\Backup\loryl_000\Documents\Faculdade\Faculdade\3° Período\LP3\Exercícios"/>
 		</list>
+	</section>
+	<section name="NewWizardAction">
 	</section>
 </section>
