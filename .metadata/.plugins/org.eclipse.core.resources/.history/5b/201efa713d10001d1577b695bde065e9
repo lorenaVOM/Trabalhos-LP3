@@ -1,0 +1,21 @@
+package trabalho1;
+
+public class Cargueiro extends Navio {
+	private int capacidadeCarga;
+	
+	public Cargueiro () {
+		this.capacidadeCarga = 10000;
+	}
+	
+	public void setCapacidadeCarga (int toneladas) {
+		this.capacidadeCarga = toneladas;
+	}
+	
+	public int getCapacidadeCarga () {
+		return this.capacidadeCarga;
+	}
+	
+	public String toString () {
+		return "Nome do navio: " + getNomeNavio() + " Capacidade máxima de carga: " + getCapacidadeCarga();
+	}
+}
